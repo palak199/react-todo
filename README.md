@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this is a simple to-do app UI made with react. It can be used with any backend. Here axios is used.
 
 ## Available Scripts
 
